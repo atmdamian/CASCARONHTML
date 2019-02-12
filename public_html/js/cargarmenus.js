@@ -5,8 +5,8 @@
  */
 
 $(document).ready(function () {
-    $('.menuContenedor').load('menu.html');
+    $('.menuContenedor').load('complementos/menu.html');
 });
 $(document).ready(function () {
-    $('.pieContenedor').load('footer.html');
+    $('.pieContenedor').load('complementos/footer.html');
 });

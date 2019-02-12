@@ -19,7 +19,7 @@ function Login(){
     
     Login.prototype.FormLogin = function (){
         
-        var component = 'login.html';
+        var component = 'complementos/login.html';
         
         $.ajax({
             mimeType: 'text/html; charset=utf-8', 
